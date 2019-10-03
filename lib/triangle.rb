@@ -19,6 +19,8 @@ class Triangle
 
     if self.valid?
       
+    else
+      #raise TriangleError
     end
 
   end
