@@ -17,7 +17,7 @@ triangle-classification-online-web-ft-090919
       # :isosceles
       # :scalene
 
-
+      
 
   end
 
