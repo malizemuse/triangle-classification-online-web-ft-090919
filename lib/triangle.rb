@@ -49,7 +49,7 @@ class Triangle
   end
 
   # Create custom TriangleError here
-  class TriangleError
+  class TriangleError < StandardError
     
   end
 
