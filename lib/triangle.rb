@@ -49,6 +49,8 @@ class Triangle
   end
 
   # Create custom TriangleError here
-
+  class TriangleError
+    
+  end 
 
 end
