@@ -9,7 +9,7 @@ class Triangle
   end
 
   def kind #returns symbol
-triangle-classification-online-web-ft-090919
+    
     # Check if triangle is valid
       # If invalid, raise TriangleError
     # If valid then check for triangle type
@@ -17,7 +17,9 @@ triangle-classification-online-web-ft-090919
       # :isosceles
       # :scalene
 
+    if self.valid? 
       
+    end 
 
   end
 
