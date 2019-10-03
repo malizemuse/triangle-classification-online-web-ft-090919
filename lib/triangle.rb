@@ -50,11 +50,6 @@ class Triangle
 
   # Create custom TriangleError here
   class TriangleError < StandardError
-
-    def message
-      "The triangle is not valid!"
-    end
-
   end
 
 end
