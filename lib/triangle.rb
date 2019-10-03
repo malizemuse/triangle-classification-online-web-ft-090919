@@ -51,7 +51,7 @@ class Triangle
   # Create custom TriangleError here
   class TriangleError < StandardError
 
-    def message 
+    def message
 
     end
     
